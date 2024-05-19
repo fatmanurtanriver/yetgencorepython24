@@ -1,2 +1,2 @@
 # corepython3
-core python ilk hafta
+core python ilk gün
