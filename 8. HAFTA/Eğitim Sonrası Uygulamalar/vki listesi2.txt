@@ -1,0 +1,18 @@
+yasemin kuleli:
+yaş:18
+boy:168.0 cm
+kilo:58.0 kg
+vki=20.5 kg/m
+durum:normal kilolu
+
+Fri Jul 19 17:05:22 2024
+---------------
+yusuf armağan:
+yaş:25
+boy:185.0 cm
+kilo:80.0 kg
+vki=23.4 kg/m
+durum:normal kilolu
+
+Fri Jul 19 17:05:22 2024
+---------------

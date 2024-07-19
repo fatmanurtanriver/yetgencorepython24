@@ -1,3 +1,3 @@
-hulahop:15.0
-kutu:14.0
-oyuncak uçak:56.0
+defter:15.0
+kutu:10.0
+kağıt:5.0
